@@ -1,4 +1,4 @@
 # MatrixDelegate
-Matrix movie themed delegate challenge.
+A Protocol Delegate challenge with Matrix theme.
 
 
