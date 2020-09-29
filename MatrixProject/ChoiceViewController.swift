@@ -34,7 +34,6 @@ class ChoiceViewController: UIViewController {
     
     @IBAction func chooseBlue(_ sender: Any) {
         delegate?.goToBedroom()
-        dismiss(animated: true, completion: nil)
         navigationController?.popViewController(animated: true)
     }
     
